@@ -1,3 +1,4 @@
+flutter upgrade
 flutter packages upgrade
 #flutter pub upgrade --major-versions
 flutter clean
@@ -5,4 +6,5 @@ flutter clean
 flutter pub get
 flutter create .
 #from https://stackoverflow.com/a/71549404
-flutter run
+#flutter run
+flutter run -d linux

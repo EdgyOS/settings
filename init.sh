@@ -1,8 +1,9 @@
 flutter pub get
 flutter create --platforms=linux .
-dart pub global activate flutter_to_debian
-export PATH="$PATH":"$HOME/.pub-cache/bin"
+#dart pub global activate flutter_to_debian
+#export PATH="$PATH":"$HOME/.pub-cache/bin"
 #mkdir include
+flutter run
 
 #remainings of firstlogon_tour:
 #git clone https://github.com/Floflis/linux-icon-getter.git include/linux-icon-getter
