@@ -1,3 +1,7 @@
+- rename "More Settings" to "Home", all all references and in i10n too
+- add "More Settings" heading to "Home" tab
+- add overview widgets to "Home" tab
+
 NOTE: Currently for Gnome only.
 To change that:
 - Detect wether Gnome or Cinnamon
