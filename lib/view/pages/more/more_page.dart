@@ -25,10 +25,10 @@ class MorePage extends StatelessWidget {
       children: [
         YaruSection(
           child: YaruTile(
-            leading: const Text('Didn\'t find a setting, or it wasn\'t implemented here yet? Click here:'),
+            leading: const Text('Didn\'t find a setting, or it wasn\'t implemented here yet?'),
             trailing: ElevatedButton.icon(
               onPressed: () => Process.start('gnome-control-center', []),
-              label: const Text('Open'),
+              label: const Text('See all of the Settings'),
               icon: const Icon(YaruIcons.settings),
             ),
           ),
@@ -38,7 +38,7 @@ class MorePage extends StatelessWidget {
             leading: const Text('Meet (the currently horrible) Floflis Central:'),
             trailing: ElevatedButton.icon(
               onPressed: () => Process.start('central', []),
-              label: const Text('Open'),
+              label: const Text('Open Central'),
               icon: const Icon(YaruIcons.settings_filled),
             ),
           ),
