@@ -1,0 +1,9 @@
+NOTE: Currently for Gnome only.
+To change that:
+- Detect wether Gnome or Cinnamon
+- Force round borders on Cinnamon so as native Gnome applications does
+- Open cinnamon-settings if Cinnamon or gnome-control-center if Gnome
+
+- settings icon on more settings' button
+- floflis central icon
+- display Floflis Central item in MoreSettings ONLY if Floflis detected

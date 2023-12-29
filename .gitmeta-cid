@@ -1,15 +1,2 @@
 Branch: main
-lib/l10n/app_da.arb: QmZqKyRVJXbnFnryEpE72vsquBTbomzW5ES6xiJ2ZEwPf2
-lib/l10n/app_de.arb: QmPKr39UKB4VWvFbBz7BC1u6quvZzFhc88Wdh117bTLVLg
-lib/l10n/app_en.arb: QmVFsERPsKZWqoTB7gm1rNpYYDZEvQuzudEuzgwKRfQfbE
-lib/l10n/app_fr.arb: QmVseFS2dMyF8aftC86MgtdPrQMWiHPvG68rGwj4Lyvavn
-lib/l10n/app_id.arb: QmT8EK7t5aGZf9qCBs2N8w4HKvRBEWUkbMT147oDxVbT8v
-lib/l10n/app_pt.arb: QmTcFQgRXqPphzq1V3eyxv7ALctXeUZiXvtMerNCgzqsoT
-lib/l10n/app_sv.arb: QmUupayRysgcfdD747SN4nV1Bym3PMjL77yCWhai36ABVJ
-lib/view/pages/more/more_page-0.dart: QmSUJ4xdqFYiMek5KNmcuzKe9F4eHsGfeBEez5n7tknwdZ
-lib/view/pages/more/more_page-1.dart: QmUpr92o7VmyZbvuYRGeCnSeLUkQuzsDfRLPgkRgYnuqa2
-lib/view/pages/more/more_page-2.dart: QmXAhhpaihb2xzSoN6n5ALHXvDG4B5RK2jMqyYKhyGL2FM
-lib/view/pages/more/more_page-3.dart: QmXJ5fQMYUgnnuhfccVN48C9LmyPxrnvD6TezBq8r9ocqJ
-lib/view/pages/more/more_page.dart: QmctrmgochnAVRKjscxvfCNXtPb4zarx5GyeQEH5M39gna
-lib/view/pages/page_items-0.dart: QmWqu99cC32EHJtKz3bDNfMDxfHEe51qAWoVNJVxSZEZep
-lib/view/pages/page_items.dart: QmPiVau8qnYuT19FJZbn1Bpv1kJghiRWVbLxgMXxMSHKDQ
+Tasks.txt: QmZhijjq2HqPqTNagmxzQrGz8JLebSJdfPJApX8uupNCwz
