@@ -1,5 +1,5 @@
 name: settings
-description: A new Flutter project.
+description: The goal of this project is to build a feature complete settings app for the Ubuntu desktop (GNOME, gtk and gnome-shell) with the Flutter UI toolkit.
 
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 

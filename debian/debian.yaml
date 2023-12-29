@@ -1,0 +1,14 @@
+flutter_app: 
+  command: ubuntu-settings
+  arch: x64
+  parent: /usr/local/lib
+
+control:
+  Package: Ubuntu-Settings
+  Version: 1.0.0+1
+  Architecture: amd64
+  Essential: no
+  Priority: optional
+  Depends:
+  Maintainer: danimesq
+  Description: The goal of this project is to build a feature complete settings app for the Ubuntu desktop (GNOME, gtk and gnome-shell) with the Flutter UI toolkit.
