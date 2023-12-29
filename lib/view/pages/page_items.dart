@@ -31,7 +31,7 @@ import 'package:yaru_icons/yaru_icons.dart';
 List<SettingsPageItem> getPageItems(BuildContext context) => [
       SettingsPageItem(
         titleBuilder: MorePage.createTitle,
-        iconBuilder: (context, selected) => const Icon(YaruIcons.app_grid),
+        iconBuilder: (context, selected) => const Icon(YaruIcons.gears),
         builder: MorePage.create,
         searchMatches: MorePage.searchMatches,
         title: context.l10n.morePageTitle,

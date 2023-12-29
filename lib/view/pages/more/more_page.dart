@@ -29,7 +29,7 @@ class MorePage extends StatelessWidget {
             trailing: ElevatedButton.icon(
               onPressed: () => Process.start('gnome-control-center', []),
               label: const Text('Open'),
-              icon: const Icon(YaruIcons.application_bag),
+              icon: const Icon(YaruIcons.settings),
             ),
           ),
         ),
@@ -39,7 +39,7 @@ class MorePage extends StatelessWidget {
             trailing: ElevatedButton.icon(
               onPressed: () => Process.start('central', []),
               label: const Text('Open'),
-              icon: const Icon(YaruIcons.application_bag),
+              icon: const Icon(YaruIcons.settings_filled),
             ),
           ),
         )
