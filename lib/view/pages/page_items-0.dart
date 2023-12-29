@@ -12,9 +12,9 @@ import 'package:settings/view/pages/date_and_time/date_time_page.dart';
 import 'package:settings/view/pages/default_apps/default_apps_page.dart';
 import 'package:settings/view/pages/displays/displays_page.dart';
 import 'package:settings/view/pages/info/info_page.dart';
+import 'package:settings/view/pages/more/more_page.dart';
 import 'package:settings/view/pages/keyboard/keyboard_page.dart';
 import 'package:settings/view/pages/mouse_and_touchpad/mouse_and_touchpad_page.dart';
-import 'package:settings/view/pages/more/more_page.dart';
 import 'package:settings/view/pages/multitasking/multi_tasking_page.dart';
 import 'package:settings/view/pages/notifications/notifications_page.dart';
 import 'package:settings/view/pages/online_accounts/online_accounts_page.dart';
@@ -29,13 +29,6 @@ import 'package:settings/view/pages/wallpaper/wallpaper_page.dart';
 import 'package:yaru_icons/yaru_icons.dart';
 
 List<SettingsPageItem> getPageItems(BuildContext context) => [
-      SettingsPageItem(
-        titleBuilder: MorePage.createTitle,
-        iconBuilder: (context, selected) => const Icon(YaruIcons.app_grid),
-        builder: MorePage.create,
-        searchMatches: MorePage.searchMatches,
-        title: context.l10n.morePageTitle,
-      ),
       SettingsPageItem(
         titleBuilder: ConnectionsPage.createTitle,
         iconBuilder: (context, selected) => const Icon(YaruIcons.network),
@@ -208,5 +201,12 @@ List<SettingsPageItem> getPageItems(BuildContext context) => [
         builder: InfoPage.create,
         searchMatches: InfoPage.searchMatches,
         title: context.l10n.infoPageTitle,
+      ),
+      SettingsPageItem(
+        titleBuilder: MorePage.createTitle,
+        iconBuilder: (context, selected) => const Icon(YaruIcons.app_grid),
+        builder: MorePage.create,
+        searchMatches: MorePage.searchMatches,
+        title: context.l10n.morePageTitle,
       ),
     ];
