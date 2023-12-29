@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=3.0.0
+Name=Ubuntu Settings
+GenericName=Flutter-Ubuntu Settings
+Comment=The goal of this project is to build a feature complete settings app for the Ubuntu desktop (GNOME, gtk and gnome-shell) with the Flutter UI toolkit.
+Terminal=false
+Type=Application
+Categories=Utility
+Keywords=Flutter;share;files;
+NoDisplay=false

@@ -1,21 +1,17 @@
-commit QmcuyocthPv27c6Npvg1sbcdzXCaVd9yFr82R2F1DzSGej
+commit Qmf3n6gUCNWx2KzrwzWdE7Njq4g8JoZvwe5AkyFNvceSaf
 Branch: main
 
 ------------------------------
 
 chown -h 1000:1000 './.gitmeta'
 chmod 0664 './.gitmeta'
-/usr/bin/touch -hcmd "2023-12-29 18:20:03.5344065000 -0300" './.gitmeta'
-/usr/bin/touch -hcad "2023-12-29 17:36:32.4257885000 -0300" './.gitmeta'
+/usr/bin/touch -hcmd "2023-12-29 18:25:27.8888358000 -0300" './.gitmeta'
+/usr/bin/touch -hcad "2023-12-29 18:20:03.5784011000 -0300" './.gitmeta'
 chown -h 1000:1000 './.gitmeta-cid'
 chmod 0664 './.gitmeta-cid'
-/usr/bin/touch -hcmd "2023-12-29 18:20:03.4864125000 -0300" './.gitmeta-cid'
-/usr/bin/touch -hcad "2023-12-29 18:20:03.5304070000 -0300" './.gitmeta-cid'
-chown -h 1000:1000 './debian/debian.yaml'
-chmod 0755 './debian/debian.yaml'
-/usr/bin/touch -hcmd "2023-12-29 18:19:15.2964599000 -0300" './debian/debian.yaml'
-/usr/bin/touch -hcad "2023-12-29 18:20:03.0704640000 -0300" './debian/debian.yaml'
-chown -h 1000:1000 './pubspec.yaml'
-chmod 0664 './pubspec.yaml'
-/usr/bin/touch -hcmd "2023-12-29 18:19:28.6787654000 -0300" './pubspec.yaml'
-/usr/bin/touch -hcad "2023-12-29 18:19:34.7579996000 -0300" './pubspec.yaml'
+/usr/bin/touch -hcmd "2023-12-29 18:25:27.8368415000 -0300" './.gitmeta-cid'
+/usr/bin/touch -hcad "2023-12-29 18:25:27.8808367000 -0300" './.gitmeta-cid'
+chown -h 1000:1000 './debian/gui/ubuntu-settings.desktop'
+chmod 0755 './debian/gui/ubuntu-settings.desktop'
+/usr/bin/touch -hcmd "2023-12-29 18:24:32.2469666000 -0300" './debian/gui/ubuntu-settings.desktop'
+/usr/bin/touch -hcad "2023-12-29 18:25:03.5475048000 -0300" './debian/gui/ubuntu-settings.desktop'
