@@ -1,4 +1,5 @@
 - rename "More Settings" to "Home", all all references and in i10n too
+- copy "More Settings" tab, now as a last tab
 - add "More Settings" heading to "Home" tab
 - add overview widgets to "Home" tab
 
